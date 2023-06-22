@@ -1,0 +1,182 @@
+[
+  {
+    "_id": 1,
+    "picture": "https://i.postimg.cc/nrSpQgR6/c01.jpg",
+    "name": "Scottish cow plush toy",
+    "price": 19.99,
+    "rating": 4.5,
+    "category": "cows",
+    "available quantity": 10,
+    "description": "Highland cattle: Take your own Living Nature Highland cattle home. This big and cute sponge cow plush toy pet is unique to your soft toy series. Natural and pleasant, with precise design, you can collect all your favorite farm animals in a first-class soft toy version, and enjoy a few hours of fun with your new furry friends. Highland cattle are 9.8 inches tall."
+  },
+  {
+    "_id": 2,
+    "picture": "https://i.postimg.cc/L58m52Tt/c02.jpg",
+    "name": "Schleich Farm World Braunvieh Cow",
+    "price": 24.99,
+    "rating": 4.2,
+    "category": "cows",
+    "available quantity": 5,
+    "description": "Explore the farm with this Black Bull, a fun, educational toy figurine from Schleich! This toy is detailed and handheld, and is ideal for hours of imaginative play. Schleich farm toys for toddlers and kids introduce the endless possibilities of storytelling and imaginative play. From little donkey foal figurines to big barns filled with horses and cows,"
+  },
+  {
+    "_id": 3,
+    "picture": "https://i.postimg.cc/tT5X9YhR/c03.jpg",
+    "name": "Schleich Simmental, Cow",
+    "price": 14.99,
+    "rating": 4.7,
+    "category": "cows",
+    "available quantity": 8,
+    "description": "a fun, educational toy figurine from Schleich! This toy is detailed and handheld, and is ideal for hours of imaginative play. Schleich farm toys for toddlers and kids introduce the endless possibilities of storytelling and imaginative play. From little donkey foal figurines to big barns filled with horses and cows, Schleich Farm World has all the animal figures and farmer figures and sets you need to let your stories run wild! For even more action and adventures, our farm toys and figures play well with Schleich unicorn toys, dinosaur toys"
+  },
+  {
+    "_id": 4,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "2",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 5,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "2",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 6,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "2",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 7,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "3",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 8,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "3",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 9,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "3",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 10,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "4",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 11,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "4",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 12,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "4",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 13,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "5",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 14,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "5",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 15,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "5",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 16,
+    "picture": "https://example.com/toy4.jpg",
+    "name": "Baby Toy 4",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "6",
+    "available quantity": 3,
+    "description": "Enhance your baby's exploration skills with this interactive toy. It features buttons, lights, and sounds, stimulating your child's cognitive and sensory development."
+  },
+  {
+    "_id": 17,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "6",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  },
+  {
+    "_id": 18,
+    "picture": "https://example.com/toy5.jpg",
+    "name": "Baby Toy 5",
+    "price": 17.99,
+    "rating": 4.6,
+    "category": "6",
+    "available quantity": 12,
+    "description": "This soft and cuddly plush toy is perfect for comforting your baby. It provides a sense of security and can be easily carried around, making it an ideal companion for your little one."
+  }
+]
